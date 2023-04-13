@@ -1,29 +1,40 @@
-# Data Analysis Project for Colombia Accidents
+# Colombian Accidents Data Analysis
 
+This repository contains a Jupyter Notebook for analyzing data on accidents and personal injuries in Colombia, as well as some visualizations created using Python libraries such as Pandas, Matplotlib, and Seaborn.
 
-The main objective of this project is to analyze and identify the main factors associated with accidents in Colombia. Through data collection, statistical analysis, and machine learning algorithms, we aim to gain insights into the most common causes of accidents in the country. By doing so, we can provide recommendations on how to reduce the number of accidents in the future.
+## Getting Started
+To get started with this project, you will need to have Python 3.x installed on your computer, along with the following libraries:
 
-The data for this project will be collected from official sources such as the Colombian Police and from public databases. The collected data will then be analyzed using various statistical methods and machine learning algorithms. The results of the analysis will be used to identify the main factors associated with accidents in Colombia, and to make recommendations on how to reduce the number of accidents.
+- Pandas
+- Matplotlib
+- Seaborn
 
-We encourage all contributors to participate in this open-source project. Whether it's data analysis, feature engineering, or recommending best practices for accident prevention, we welcome your contribution. All contributors will be credited in the project's README file.
+You can install these libraries using pip by running the following command:
 
-To get started, please refer to the project's README file for instructions on how to contribute. We look forward to collaborating with you on this project!
+pip install pandas matplotlib seaborn
 
-To ensure the success of this project, we have defined several key objectives. These objectives include:
+Once you have installed the necessary libraries, you can open the Jupyter Notebook colombian_accidents_data_analysis.ipynb to begin exploring the data and running the analysis.
 
-Collecting high-quality data from reliable sources to ensure the accuracy and validity of the analysis.
+## Data Source
 
-Conducting thorough data analysis using statistical methods and machine learning algorithms to identify the main factors associated with accidents in Colombia.
+The data used in this analysis was obtained from the DatosColombia.com and Policia Nacional and includes information on accidents and personal injuries that occurred in Colombia from 2010 to 2021.
 
-Providing clear and actionable recommendations based on the results of the analysis to help reduce the number of accidents in the country.
+## Visualizations
 
-Creating an open-source platform where contributors can share their expertise and collaborate on the project.
+The following visualizations are included in this repository:
 
-To achieve these objectives, we will follow a structured approach that includes data collection, cleaning, analysis, and visualization. We will use various tools and technologies to ensure the accuracy and validity of our analysis, including Python.
+- Histogram of the number of accidents by department
+- Line chart of the accident over the time
+- Histogram and bar charts of the gender of the victims
+- Bar chart of the percentage of accidents by department
+- 3D scatter plot of the clustered data
 
-As this is an open-source project, we welcome contributions from anyone with an interest in data analysis and accident prevention. Whether you are an expert in statistics or a beginner in data analysis, your contributions are valuable and will be appreciated.
+## Power BI Dashboard
 
-Let's work together to make Colombia a safer place by reducing the number of accidents. Join us in this project today!
+A Power BI dashboard has also been created to visualize the data in a more interactive and user-friendly way. You can view the dashboard by clicking on this https://onx.la/71e87.
+
+## Author
+This analysis was performed by Jorge Luis Morales Cruz. If you have any questions or feedback, please feel free to reach out to me.
 
 
 
