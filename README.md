@@ -13,7 +13,7 @@ You can install these libraries using pip by running the following command:
 
 pip install pandas matplotlib seaborn
 
-Once you have installed the necessary libraries, you can open the Jupyter Notebook colombian_accidents_data_analysis.ipynb to begin exploring the data and running the analysis.
+Once you have installed the necessary libraries, you can open the Jupyter Notebook colombian_acc.ipynb to begin exploring the data and running the analysis.
 
 ## Data Source
 
